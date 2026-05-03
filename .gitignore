@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Data (MNIST downloaded on first run)
+data/
+
+# Experiment artifacts that can be regenerated
+# Keep results/ (small, useful for reviewers), but ignore the large/ephemeral bits
+*.ipynb_checkpoints/
