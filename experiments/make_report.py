@@ -177,7 +177,8 @@ def build():
     )
     add_para(
         doc,
-        "Code and experimental artifacts: [TODO: insert GitHub URL].",
+        "Code and experimental artifacts: "
+        "https://github.com/gowthamsenthil/compress-gradient",
         italic=True,
         align="justify",
     )
