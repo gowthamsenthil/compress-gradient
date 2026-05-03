@@ -156,8 +156,3 @@ All outputs land in `results/`.
 - Sergeev & Del Balso, *Horovod*, 2018.
 
 ---
-
-## License
-
-MIT (see [LICENSE](LICENSE) if present; otherwise repo is provided for academic review).
-
